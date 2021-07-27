@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+NBS/emotion_detection/export.pkl
+NBS/emotion_detection/shape_predictor_68_face_landmarks.dat
